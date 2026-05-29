@@ -1,7 +1,5 @@
-# sportsbook-platform-infrastructure
-AI-powered sportsbook and digital infrastructure technologies.
 # PlaybetAI Infrastructure Technologies
-
+AI-powered digital infrastructure, sportsbook platform systems and scalable backend technologies.
 PlaybetAI develops scalable digital infrastructure and AI-powered platform technologies for modern online systems.
 
 ## Core Technologies
@@ -40,3 +38,5 @@ https://playbetai.com
 https://www.playbetai.com/kiralik-bahis-sitesi
 
 https://www.playbetai.com/satilik-bahis-sitesi
+
+![PlaybetAI Infrastructure](https://github.com/user-attachments/assets/32e2b1d8-a4a6-428d-ae56-5db6d1343742)
