@@ -40,3 +40,4 @@ https://www.playbetai.com/kiralik-bahis-sitesi
 https://www.playbetai.com/satilik-bahis-sitesi
 
 ![PlaybetAI Infrastructure](https://github.com/user-attachments/assets/32e2b1d8-a4a6-428d-ae56-5db6d1343742)
+![PlaybetAI Infrastructure](https://github.com/user-attachments/assets/b0451413-c9d7-4457-90c6-641ecf435cf4)
